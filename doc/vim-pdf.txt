@@ -1,0 +1,3 @@
+*vim-pdf.txt*      vim-pdf
+
+vim-pdf helps VIM to read PDF files in text format using pdftotext utility.
