@@ -6,6 +6,12 @@
 
 ## Prerequisite
 
+
+* poppler
+```
+sudo apt install poppler-utils
+sudo apt install libpoppler-cpp-dev
+```
 * pdftotext
 
 ```
@@ -13,11 +19,6 @@
 pip install pdftotext 
 
 ```
-*if pdftotext installition fails*
-```
-sudo apt install poppler
-```
-
 ## Installation
 
 it's recommended that you use a plugin manager like [vim-plug](https://github.com/junegunn/vim-plug)
